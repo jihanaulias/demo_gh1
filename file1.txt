@@ -1,1 +1,2 @@
 baris 1 remote
+baris 2 local
